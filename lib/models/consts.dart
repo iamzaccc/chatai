@@ -1,1 +1,1 @@
-const OPENAI_API_KEY = "Enter API key";
+const OPENAI_API_KEY = "Enter API keyy";
